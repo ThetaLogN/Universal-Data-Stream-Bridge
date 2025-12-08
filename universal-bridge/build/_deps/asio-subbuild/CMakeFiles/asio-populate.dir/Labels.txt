@@ -1,0 +1,14 @@
+# Target labels
+ asio-populate
+# Source files and their labels
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/CMakeFiles/asio-populate
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/CMakeFiles/asio-populate.rule
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/CMakeFiles/asio-populate-complete.rule
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-build.rule
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-configure.rule
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-download.rule
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-install.rule
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-mkdir.rule
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-patch.rule
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-test.rule
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-update.rule

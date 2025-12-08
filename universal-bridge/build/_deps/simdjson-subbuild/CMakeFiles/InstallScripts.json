@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/simdjson-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,14 @@
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/CMakeFiles/bridge.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/CMakeFiles/edit_cache.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/CMakeFiles/rebuild_cache.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/CMakeFiles/list_install_components.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/CMakeFiles/install.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/CMakeFiles/install/local.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/CMakeFiles/install/strip.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/simdjson-build/CMakeFiles/simdjson.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/simdjson-build/CMakeFiles/edit_cache.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/simdjson-build/CMakeFiles/rebuild_cache.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/simdjson-build/CMakeFiles/list_install_components.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/simdjson-build/CMakeFiles/install.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/simdjson-build/CMakeFiles/install/local.dir
+/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/simdjson-build/CMakeFiles/install/strip.dir

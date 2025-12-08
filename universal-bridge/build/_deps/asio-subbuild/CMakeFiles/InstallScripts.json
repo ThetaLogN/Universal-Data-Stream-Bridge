@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/giorgiomartucci/Universal_Data_Stream_Bridge/universal-bridge/build/_deps/asio-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
