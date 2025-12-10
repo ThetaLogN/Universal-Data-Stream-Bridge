@@ -9,7 +9,7 @@ Engine::Engine()
 
 void Engine::run() {
     start_accept();
-    std::cout << "[Engine] Loop avviato. In attesa di dati JSON..." << std::endl;
+    std::cout << "[Engine] Loop avviato. In attesa di dati ..." << std::endl;
     io_context_.run();
 }
 
